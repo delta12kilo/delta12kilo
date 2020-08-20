@@ -1,5 +1,10 @@
 # Hi there 👋
-### - 🌱 I’m currently learning Node, React
+
+## - 🔭 I’m currently working on **My Own Project**.
+
+### - 🌱 I’m currently learning Node, React...
+
+
 <!--
 **delta12kilo/delta12kilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
