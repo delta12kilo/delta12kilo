@@ -4,7 +4,7 @@
 
 ### - 🌱 I’m currently learning Node, React...
 
-
+[![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=delta12kilo)](https://github.com/delta12kilo/github-readme-stats)
 <!--
 **delta12kilo/delta12kilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
