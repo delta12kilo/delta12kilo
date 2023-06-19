@@ -2,7 +2,7 @@
 
 ## - 🔭 I’m currently working on **My Own Project**.
 
-### - 🌱 I’m currently learning Angular...
+### - 🌱 I know springboot, quarkus, micronaut
 
 ![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=delta12kilo&show_icons=true&theme=onedark)
 <!--
