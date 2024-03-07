@@ -5,7 +5,7 @@
 
 ### - 🌱 I have worked with Springboot, Micronaut, Quarkus, Angular, React.
 
-### - 📫 Reach me at  [Deepak Kumar](https://www.linkedin.com/in/deepak-kumar-05636a1a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/deepak-kumar-05636a1a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=delta12kilo&show_icons=true&theme=onedark)
 <!--
