@@ -1,9 +1,11 @@
 # Hi there 👋
 ## I am Deepak Kumar...
 
-## - 🔭 I’m currently working on **My Own Project**.
+## - 🔭 I’m currently working as a full stack developer.
 
-### - 🌱 I know Springboot, Micronaut, Quarkus, Angular, React
+### - 🌱 I have worked with Springboot, Micronaut, Quarkus, Angular, React.
+
+### - 📫 Reach me at  ![Deepak Kumar](https://www.linkedin.com/in/deepak-kumar-05636a1a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=delta12kilo&show_icons=true&theme=onedark)
 <!--
